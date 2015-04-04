@@ -1,3 +1,11 @@
 body {
   font-family:"lucida console";
+  color:white;
+  background-color: black;
+}
+div {
+  color:#000000;
+  font-size:75px;
+  align-self: center;
+  width:25%;
 }
